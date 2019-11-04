@@ -1,4 +1,4 @@
-# Exercise 2
+## Exercise 2
 
 Написать скрипт, который к именам файлов указанной директории, которые не изменялись за последний месяц, добавит символ `~`. Т.е. если файл `file` не изменялся, переименовать его в `~file`.
 
@@ -6,5 +6,5 @@
 
 <br>
 
-[Previous](exercise01.md) | [Home](readme.md) | [Next >>](exercise03.md)
+[Previous](exercise01.md) | [Home](/readme.md) | [Next >>](exercise03.md)
 

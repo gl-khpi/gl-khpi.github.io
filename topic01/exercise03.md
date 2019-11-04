@@ -1,8 +1,8 @@
-# Exercise 3
+## Exercise 3
 
 Написать скрипт, который, в случае переименования хотя бы одного файла в указанной директории с помощью скрипта из [Exercise 2](exercise02.md), запустит на выполнение скрипт [Exercise 1](exercise01.md).
 
 <br>
 
-[Previous](exercise01.md) | [Home](readme.md)
+[Previous](exercise02.md) | [Home](/readme.md)
 
