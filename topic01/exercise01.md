@@ -24,5 +24,5 @@
 
 <br>
 
-[Home](readme.md) | [Next >>](exercise02.md)
+[Home](/readme.md) | [Next >>](exercise02.md)
 
