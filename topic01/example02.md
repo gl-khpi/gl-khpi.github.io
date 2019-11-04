@@ -1,3 +1,5 @@
+[Exercise 2](exercise02.md).
+
 ```bash
 #! /bin/bash
 
