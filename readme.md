@@ -1,30 +1,32 @@
 # Linux Kernel University Course
 
-## 1. Intro. Linux: обзор, установка, настройка. Файловая система. Командная оболочка. Утилиты. Bash: command line, shell scripting
+1. Intro. Linux: обзор, установка, настройка. Файловая система. Командная оболочка. Утилиты. Bash: command line, shell scripting.
 
 - [Exercise 1](topic01/exercise01.md).
 - [Exercise 2](topic01/exercise02.md).
 - [Exercise 3](topic01/exercise03.md).
 
-## 2. Bash: Advanced Shell scripting, Special variables, Operators, Functions, Signals, Debugging
+<br>
 
-## 3. Git: Main rules, Commands, Branching, Merging, Rebase, Project workflow
+2. Bash: Advanced Shell scripting, Special variables, Operators, Functions, Signals, Debugging.
 
-## 4. C Programming in Linux. GCC, CLANG. Develop and debug code. Creating a shared and static library. Linux kernel coding style.
+3. Git: Main rules, Commands, Branching, Merging, Rebase, Project workflow.
 
-## 5. Writing Secure Code in C. CERT C Coding Standard. Make: Overview, Running, Rules, Variables, Options, Targets, Conditionals
+4. C Programming in Linux. GCC, CLANG. Develop and debug code. Creating a shared and static library. Linux kernel coding style.
 
-## 6. Обзор архитектуры ARM. ST32F4xx. Стенд.
+5. Writing Secure Code in C. CERT C Coding Standard. Make: Overview, Running, Rules, Variables, Options, Targets, Conditionals.
 
-## 7. Ввод/вывод информации. Последовательные интерфейсы.
+6. Обзор архитектуры ARM. ST32F4xx. Стенд.
 
-## 8. Акселерометр MPU6050. LCD.
+7. Ввод/вывод информации. Последовательные интерфейсы.
 
-## 9. Ядро Линукс. Обзор. Структура. Сборка. Установка.
+8. Акселерометр MPU6050. LCD.
 
-## 10. Виртуальная файловая система. Програмный интерфейс. Ресурсы.
+9. Ядро Линукс. Обзор. Структура. Сборка. Установка.
 
-## 11. Модули. Зависимости. Загрузка/выгрузка. Диагностика. Отладка.
+10. Виртуальная файловая система. Програмный интерфейс. Ресурсы.
 
-## 12. Драйвер символьного устройства. Назначение. Различия. Major и minor значения. Основные операции. Порядок инициализации. IOCTLs.
+11. Модули. Зависимости. Загрузка/выгрузка. Диагностика. Отладка.
+
+12. Драйвер символьного устройства. Назначение. Различия. Major и minor значения. Основные операции. Порядок инициализации. IOCTLs.
 
