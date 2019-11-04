@@ -4,7 +4,7 @@
 
 ### Примеры
 
-[Example](example02.md).
+- [Example](example02.md).
 
 <br>
 
