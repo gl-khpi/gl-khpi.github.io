@@ -20,9 +20,9 @@
 
 :five: Если передаётся ключ `-t` или `--test`, выводить пути к файлам, подлежащим удалению, но удаление не выполнять.
 
-[Example](src/example01.sh).
+[Example](example01.md).
 
 <br>
 
-[Home](/readme.md) | [Next >>](exercise02.md)
+[Home](../readme.md) | [Next >>](exercise02.md)
 

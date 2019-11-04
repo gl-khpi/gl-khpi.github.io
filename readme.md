@@ -6,8 +6,6 @@
 - [Exercise 2](topic01/exercise02.md).
 - [Exercise 3](topic01/exercise03.md).
 
-<br>
-
 2. Bash: Advanced Shell scripting, Special variables, Operators, Functions, Signals, Debugging.
 
 3. Git: Main rules, Commands, Branching, Merging, Rebase, Project workflow.
