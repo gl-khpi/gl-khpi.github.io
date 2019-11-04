@@ -4,5 +4,5 @@
 
 <br>
 
-[Previous](exercise01.md) | []Home](readme.md)
+[Previous](exercise01.md) | [Home](readme.md)
 
