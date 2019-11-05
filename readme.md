@@ -34,7 +34,7 @@
 ## Development tools
 
 - [GNU Compiler Collection](https://en.wikipedia.org/wiki/GNU_Compiler_Collection).
-- [Clang](https://uk.wikipedia.org/wiki/Clang) в составе [LLVM](https://en.wikipedia.org/wiki/LLVM). [LLVM Download Page](http://releases.llvm.org/download.html). Удобные инструменты: [scan-build](https://clang-analyzer.llvm.org/scan-build.html), [LeakSanitizer](https://clang.llvm.org/docs/LeakSanitizer.html), [ClangFormat](https://clang.llvm.org/docs/ClangFormat.html).
+- [Clang](https://uk.wikipedia.org/wiki/Clang) в составе [LLVM](https://en.wikipedia.org/wiki/LLVM) ([Ubuntu packages](https://apt.llvm.org/), [download page](http://releases.llvm.org/download.html)). Удобные инструменты: [scan-build](https://clang-analyzer.llvm.org/scan-build.html), [LeakSanitizer](https://clang.llvm.org/docs/LeakSanitizer.html), [ClangFormat](https://clang.llvm.org/docs/ClangFormat.html).
 - [Git](https://git-scm.com/).
 - [GitHub](https://github.com/).
 
