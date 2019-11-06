@@ -3,7 +3,11 @@
 ```bash
 #! /bin/bash
 
-dir=$1
+if [[ -d $1 ]]; then
+        dir=$1
+else
+        dir=.
+fi
 
 find $dir -type f -mtime 30 -exec mv {} ~{} \;
 
