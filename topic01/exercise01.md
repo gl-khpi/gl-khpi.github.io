@@ -21,7 +21,8 @@
 
 ### Примеры
 
-- [Example](example01.md).
+- [Example 1](example01_1.md).
+- [Example 2](example01_2.md).
 
 <br>
 
