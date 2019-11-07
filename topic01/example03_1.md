@@ -16,5 +16,17 @@ then
 else
         exit 2
 fi
+
+# Also we can use $(which task1) and second if we add scripts
+# to $PATH or to existing directories binaries
+
+temp=$(${path}/task2 $dir | grep "~*")
+
+if ! [[ -z temp ]]
+then
+        ${path}/task1 $dir
+fi
+
+exit $RETURN_SUCCESS
 ```
 

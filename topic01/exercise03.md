@@ -5,7 +5,7 @@
 ### Примеры
 
 - [Example 1](example03_1.md).
-- [Example 1](example02_1.md).
+- [Example 2](example03_2.md).
 
 <br>
 
