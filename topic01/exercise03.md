@@ -9,5 +9,4 @@
 
 <br>
 
-[<< Previous](exercise02.md) | [Home](../readme.md)
-
+[<< Previous](exercise02.md) | [Home](../readme.md) | [Next >>](task01.md)
