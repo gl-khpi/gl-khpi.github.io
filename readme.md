@@ -77,4 +77,5 @@
    - [Exercise 1](topic01/exercise01.md).
    - [Exercise 2](topic01/exercise02.md).
    - [Exercise 3](topic01/exercise03.md).
+   - [Task 1](topic01/task01.md).
 
